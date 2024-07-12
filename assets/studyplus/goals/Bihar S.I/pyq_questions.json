@@ -2,7 +2,7 @@
   "subjects": [
     {
       "name": "Bihar S.I 2024",
-      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/maths.png",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/maths.png",
       "teachers": [
         {
           "name": "20 March Shift 1",
@@ -25,11 +25,11 @@
     },
     {
       "name": "Bihar S.I 2023",
-      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/history.png",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/history.png",
       "teachers": [
         {
           "name": "30 March shift 1",
-          "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/kautilya.png",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
           "lectures": [
             "Ancient history",
             "Mediaeval history",

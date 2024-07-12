@@ -2,7 +2,7 @@
   "subjects": [
     {
       "name": "Mathematics",
-      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/maths.png",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/maths.png",
       "teachers": [
         {
           "name": "John Doe",
@@ -25,11 +25,11 @@
     },
     {
       "name": "History",
-      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/history.png",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/history.png",
       "teachers": [
         {
           "name": "Kautilya",
-          "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/kautilya.png",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
           "lectures": [
             "Ancient history",
             "Mediaeval history",
