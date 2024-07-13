@@ -1,22 +1,22 @@
 {
-  "subjects": [
+  "years": [
     {
-      "name": "Bihar S.I 2024",
-      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/maths.png",
-      "teachers": [
+      "year_name": "Bihar S.I 2024",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/maths.png",
+      "shifts": [
         {
-          "name": "20 March Shift 1",
+          "shift_name": "20 March Shift 1",
           "image_url": "https://example.com/images/john_doe.png",
-          "lectures": [
+          "questions": [
             "Maths",
             "Calculus",
             "Geometry"
           ]
         },
         {
-          "name": "Jane Smith",
+          "shift_name": "20 March Shift 2",
           "image_url": "https://example.com/images/jane_smith.png",
-          "lectures": [
+          "questions": [
             "Trigonometry",
             "Statistics"
           ]
@@ -24,22 +24,22 @@
       ]
     },
     {
-      "name": "Bihar S.I 2023",
-      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/history.png",
-      "teachers": [
+      "year_name": "Bihar S.I 2023",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/history.png",
+      "shifts": [
         {
-          "name": "30 March shift 1",
-          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
-          "lectures": [
+          "shift_name": "30 March shift 1",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/kautilya.png",
+          "questions": [
             "Ancient history",
             "Mediaeval history",
             "Modern history"
           ]
         },
         {
-          "name": "1 Aprill shift 2",
+          "shift_name": "1 Aprill shift 2",
           "image_url": "https://example.com/images/isaac_newton.png",
-          "lectures": [
+          "questions": [
             "Optics",
             "Gravity"
           ]
